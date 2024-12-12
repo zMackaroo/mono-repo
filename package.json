@@ -1,0 +1,15 @@
+{
+  "name": "mono-repo",
+  "version": "1.0.0",
+  "description": "mono-repo consisting shared ui library to different services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/zMackaroo/mono-repo.git"
+  },
+  "author": "zMackaroo",
+  "license": "ISC"
+}
